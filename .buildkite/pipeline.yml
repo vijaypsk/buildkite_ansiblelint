@@ -1,0 +1,4 @@
+steps:
+  - label: "running build"
+    command: ./bin/run_build.sh
+    
